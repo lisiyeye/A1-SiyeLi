@@ -1,0 +1,15 @@
+# 编译产物（不要提交，仓库里只放源码）
+bin/
+*.class
+
+# 编辑器配置
+.vscode/
+.idea/
+*.iml
+
+# 系统残留
+.DS_Store
+Thumbs.db
+
+# 临时输出
+test_output.txt
